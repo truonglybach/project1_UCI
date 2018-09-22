@@ -1,0 +1,476 @@
+,City,Code
+3,City ,Code 
+6,29 Palms ,29P   
+10,Acton ,AC     
+11,Adelanto ,AD    
+12,Agoura ,AGO   
+13,Agoura Hills ,AGHI 
+14,Agua Dulce ,ADUL 
+15,Aguanga ,AGNA  
+16,Alberhill ,ALHL 
+17,Alhambra ,ALH   
+18,Aliso Viejo ,AV    
+19,Alpine ,ALP 
+20,Alta Loma ,ALTL  
+21,Altadena ,ALTA  
+22,Anaheim ,ANA   
+28,Anaheim Hills ,AH    
+29,Angeles Oaks ,ANGO  
+30,Anza ,ANZA  
+31,Apple Valley ,APPV  
+32,Arcadia ,ARCD  
+33,Arleta ,ARL    
+34,Arrowbear ,AB 
+35,Artesia ,ART   
+36,Atwater ,ATW 
+37,Avalon ,AVAL 
+38,Azusa ,AZU   
+39,Bakersfield ,BKSF 
+40,Baldwin Park ,BDPK  
+41,Banning ,BANN  
+42,Barstow ,BSTW  
+43,Bassett ,BST 
+44,Beaumont ,BMT   
+45,Bel Air ,BELA 
+46,Bell ,BELL  
+48,Bell Canyon ,BC     
+49,Bell Gardens ,BG    
+54,Bellflower ,BF    
+58,Bermuda Dunes ,BD    
+59,Beverly Hills ,BEVH 
+61,Big Bear ,BB    
+62,Bloomington ,BLM   
+63,Blythe ,BLY 
+64,Bonita ,BON 
+65,Bonsall ,BNSL 
+66,Borrega Springs ,BSPG 
+67,Boulevard ,BOU 
+68,Bradbury ,BRAD  
+69,Brea ,BREA  
+70,Brentwood ,BREN 
+71,Buena Park ,BP    
+72,Bullhead City ,BULH 
+73,Burbank ,BBK 
+74,Cabazon ,CABA  
+75,Cahuenga Pass ,CPS    
+76,Calabasas ,CLB   
+77,Calabasas Highlands ,CBH   
+78,Calabasas Park ,CBP    
+79,California City ,CACY  
+80,Calimesa ,CALI  
+81,Camarillo ,CAM    
+82,Campo ,CAMP 
+83,Canoga Park ,CP    
+84,Canyon Areas ,CA    
+87,Canyon Country ,CANC 
+88,Canyon Lake ,CLK   
+89,Cardiff by the Sea ,CAS 
+90,Carlsbad ,CAR 
+91,Carmel Valley ,CAV 
+92,Carson ,CARS 
+97,Castaic ,CAST 
+100,Cathedral City ,CC 
+102,Cerritos ,CER   
+105,Chatsworth ,CHT   
+109,Cherry Valley ,CHVL  
+110,Chino ,CH    
+111,Chino Hills ,CHH   
+112,Chula Vista ,CHU 
+113,City of Commerce ,COM   
+114,City of Industry ,COI 
+115,Clairemont Mesa ,CLM 
+116,Claremont ,CLAR  
+117,Coachella ,COA 
+118,Colton ,CLTN  
+120,Compton ,CMP   
+124,Corona ,COR   
+126,Corona Del Mar ,CDM   
+127,Coronado ,CORO 
+128,Costa Mesa ,CM    
+133,Coto De Caza ,CDC   
+134,Cottonwood Canyon ,COTT 
+135,Covina ,CVN   
+136,Crestline ,CRLN  
+137,Cudahy ,CUD   
+138,Culver City ,CULV  
+139,Cypress ,CYP   
+142,Dana Point ,DP    
+145,Dana Point ,DP 
+147,Del Cerro ,DEC 
+148,Del Mar  ,DEM 
+149,Descanso ,DES 
+150,Desert Center ,DCTR 
+151,Desert Hot Springs ,DHS 
+160,Desert Shores ,DS 
+164,Devore ,DEVO 
+165,Diamond Bar ,DB    
+166,Downey ,DOW   
+170,Duarte ,DUAR 
+171,Dulzura ,DUL 
+172,Eagle Rock ,EAGL 
+173,East San Diego ,ESD 
+174,El Cajon ,ELC 
+175,El Cerrito ,ELCE 
+176,El Monte ,ELM   
+177,El Segundo ,ES    
+178,El Sereno ,ESER 
+179,Encinitas ,ENCS 
+180,Encino ,ENC 
+181,Escondido ,ESC 
+182,Fallbrook ,FBRK 
+183,Fillmore ,FIL    
+184,Fontana ,FONT  
+185,Foreign Country ,FC 
+186,Forest Falls ,FRFL 
+187,Fountain Valley ,FV    
+189,Frazier Park ,FRZ    
+190,French Valley ,FRVL 
+191,Fullerton ,FUL   
+192,Garden Grove ,GG    
+204,Gardena ,GR 
+212,Garner Valley ,GRVL 
+213,Garnet ,GARN 
+214,Glassell Park ,GPRK 
+215,Glen Avon ,GAV 
+219,Glen Helen ,GLHL 
+220,Glen Ivy ,GLIV 
+221,Glendale ,GD    
+226,Glendora ,GLDR 
+227,Goodhope ,GDHP 
+228,Granada Hills ,GH    
+229,Grand Terrace ,GRTR  
+230,Green Valley ,GRV    
+231,Grover Beach ,GRVC 
+232,Guatay ,GUA 
+233,Hacienda Heights ,HH    
+234,Harbor City ,HC    
+235,Havasu City ,HVCY 
+236,Hawaiian Gardens ,HG    
+238,Hawthorne ,HAWT 
+241,Hemet ,HMT   
+242,Hermosa Beach ,HMB 
+245,Hesperia ,HSP   
+246,Hidden Hills ,HHIL 
+247,Highgrove ,HGRV 
+248,Highland ,HLND  
+249,Highland Park ,HDPK 
+250,Hollydale ,HLDL 
+251,Hollywood ,HLW 
+254,Homeland ,HOME 
+255,Honolulu ,HNLU 
+256,Hornbrook ,HNBK 
+257,Huntington Beach ,HB    
+261,Huntington Park ,HNPK  
+264,Idyllwild ,IWLD  
+265,Imperial Beach ,IMB 
+266,Imperial City ,IMC 
+267,Indian Wells ,IW 
+268,Indio ,IND 
+274,Inglewood ,ING 
+279,Irvine ,IR    
+284,Irvine ,IR 
+300,Irwindale ,IRW 
+301,Jacumba ,JAC 
+302,Jamul ,JAM 
+303,Joshua Tree ,JT 
+305,Julian ,JUL 
+306,Juniper Flats ,JFLT 
+307,Kagel Canyon ,KGY    
+308,La Canada Flintridge ,LCF   
+309,La Crescenta ,LACR 
+311,La Habra ,LH    
+312,La Habra Heights ,LHH   
+313,La Jolla ,LAJ 
+314,La Mesa ,LMSA 
+315,La Mirada ,LAM   
+316,La Palma ,LP    
+317,La Puente ,LPUE  
+318,La Quinta ,LQ 
+320,La Sierra ,LS 
+321,La Verne ,LVRN  
+322,Ladera Heights ,LADH 
+323,Laguna Beach ,LB    
+330,Laguna Hills ,LAGH  
+331,Laguna Niguel ,LN    
+335,Laguna Woods ,LAGW  
+336,Lake Arrowhead ,LKAR  
+337,Lake Elizabeth ,EZB   
+338,Lake Elsinore ,LKEL 
+341,Lake Elsinore ,LKEL  
+346,Lake Forest ,LF    
+349,Lake Forest ,LF 
+350,Lake Havasu ,LHSU 
+351,Lake Hughes ,LKH    
+352,Lake Los Angeles ,LKL    
+353,Lake Matthews ,LKMA  
+354,Lake Sherwood ,LKS    
+355,Lakeside ,LAK 
+356,Lakeview Terrace ,LVT    
+357,Lakewood ,LW    
+366,Lancaster ,LNCR 
+367,Landers ,LNDR 
+368,Lawndale ,LAWN 
+371,Lemon Grove ,LEG 
+372,Lennox ,LX 
+373,Leona Valley ,LVY 
+374,Lincoln Heights ,LHTS 
+375,Linda Vista ,LIV 
+376,Little Rock ,LTLR 
+377,Logan Heights ,LOH 
+378,Loma Linda ,LOML 
+379,Lomita ,LOM 
+380,Long Beach ,LONG  
+416,Los Alamitos ,LOSA 
+418,Los Angeles (City) ,LA  
+419,Los Angeles (County) ,CO    
+420,Los Feliz ,LFE 
+421,Lucerne Valley ,LUCV 
+422,Lynwood ,LNWD 
+423,Lytle Creek ,LCRK 
+424,Malibu ,MLBU 
+426,Manhattan Beach ,MANH 
+432,Mar Vista ,MARV 
+433,Marina Del Rey ,MR 
+434,Maywood ,MW    
+435,Mead Valley ,MVLY 
+439,Meadowbrook ,MBRK 
+440,Mecca ,MEC 
+441,Menifee ,MENF  
+442,Mentone ,MENT  
+443,Midway City ,MC    
+446,Mira Loma ,MILO  
+447,Mira Mesa ,MIM 
+448,Miramar ,MIR 
+449,Mission Hills San Diego ,MIH 
+450,Mission Hills San Fernando ,MH    
+452,Mission Valley ,MIV 
+453,Mission Viejo ,MV    
+457,Monrovia ,MNRO  
+458,Montclair ,MCLR  
+459,Montebello ,MTB   
+460,Montecito Heights ,MHTS 
+461,Monterey Hills ,MHIL 
+462,Monterey Park ,MP    
+463,Montrose ,MTR 
+465,Moorpark ,MPK    
+466,Moorpark ,MPK   
+467,Moreno Valley ,MORV  
+468,Morongo Valley ,MGOV 
+469,Morro Bay ,MRBY 
+470,Mount Baldy ,MTBL  
+471,Mount Laguna ,MOL 
+472,Mount Washington ,MWSH 
+473,Mountain Center ,MNTC 
+474,Murrieta ,MUR 
+475,Murrieta ,MUR   
+481,National City ,NAC 
+482,Needles ,NEED 
+483,Newberry Spring ,NBS 
+484,Newbury Park ,NPK   
+485,Newhall ,NEWH 
+486,Newport Beach ,NB    
+496,Newport Coast ,NC    
+498,Norco ,NORC  
+499,North Hills ,NOH    
+500,North Hollywood ,NHLW  
+504,North Park ,NOP 
+505,North Shore ,NSH 
+506,North Tustin ,NTUS 
+507,North Tustin ,NTUS  
+508,Northridge ,NR    
+509,Norwalk ,NWK   
+512,Nuevo/Lakeview ,NUEV  
+513,Oak Glen ,OAKG 
+514,Oasis ,OAS 
+515,Ocean Beach ,OCB 
+516,Oceanside ,OCE 
+517,Ojai ,OJAI   
+518,Olancha ,OLAN 
+519,Old Town San Diego ,OTS 
+520,Ontario ,ONT   
+521,Orange ,ORG   
+523,Orange ,ORG 
+524,Orange Park Acres ,OPA 
+525,Ortega Mountain ,ORTG 
+527,Otay Mesa ,OTM 
+528,Out of Area ,OA 
+529,Outside State ,OS 
+530,Oxnard ,OXN    
+531,Pacific Beach ,PAB 
+532,Pacific Palisades ,PACP 
+533,Pacoima ,PAC    
+534,Pala ,PAL 
+535,Palm Desert ,PDST 
+539,Palm Springs ,PSPR 
+542,Palmdale ,PDL   
+543,Palomar Mountain ,PAM 
+544,Palos Verdes Estates ,PVE 
+552,Panorama City ,PC    
+553,Paradise Hills ,PAH 
+554,Paramount ,PAR   
+556,Pasadena ,PAS 
+557,Pasadena ,PAS    
+558,Pasadena ,PAS   
+560,Pauma Valley ,PAU 
+561,Pearblossom ,PBLM  
+562,Pedley ,PED 
+563,Perris ,PRS 
+565,Phelan ,PHEL 
+566,Phillips Ranch ,PRCH 
+567,Pico Rivera ,PR    
+568,Pine Cove ,PNCV 
+569,Pine Mountain ,PINM   
+570,Pine Valley ,PIV 
+571,Pinon Hills ,PINH 
+572,Pinyon Pines ,PIN 
+573,Placentia ,PLA   
+574,Playa Del Rey ,PDLR  
+575,Point Loma ,POL 
+576,Pomona ,POM   
+577,Porterville ,PORT 
+578,Potrero ,POT 
+579,Poway ,POW 
+580,Quail Valley ,QVLY  
+581,Quartz Hill ,QHL    
+582,Rainbow ,RNBW 
+583,Ramona ,RAM 
+584,Ranchita ,RAN 
+585,Rancho Bernardo ,RAB 
+586,Rancho California ,RCA   
+587,Rancho Cucamonga ,RCUC 
+588,Rancho Dominguez ,RDOM  
+589,Rancho Mirage ,RM    
+590,Rancho Palos Verdes ,RPV 
+591,Rancho Palos Verdes ,RPV  
+613,Redlands ,REDL  
+614,Redman ,RDMN 
+615,Redondo Beach ,REDO 
+622,Reseda ,RES    
+623,Rialto ,RLT   
+624,Ridgecrest ,RCR 
+625,Riverside (City) ,RVSD  
+626,Rolling Hills  ,RH  
+627,Rolling Hills Estates ,RHE 
+633,Romoland ,RMLD  
+634,Romona ,RMNA 
+635,Rosamond ,ROSA 
+636,Rosemead ,RSMD  
+637,Rossmoor ,ROSS  
+638,Rowland Heights ,ROW 
+639,Rubidoux ,RBDX 
+640,Running Springs Area ,RSA 
+641,Sage ,SAGE 
+642,Salton City ,SALT 
+643,San Bernardino (City) ,SB    
+644,San Carlos ,SAC 
+645,San Clemente ,SC    
+655,San Diego (City) ,SD 
+659,San Dimas ,SDMS  
+660,San Fernando ,SF     
+661,San Gabriel ,SGAB  
+662,San Jacinto ,SJCN  
+663,San Jose ,SJOS 
+664,San Juan Capistrano ,SJ    
+669,San Luis Rey ,SLR 
+670,San Marcos ,SAM 
+671,San Marino ,SMRO  
+672,San Pedro ,SP 
+681,San Ysidro ,SYSI 
+682,Sand Canyon ,SCN    
+683,Santa Ana ,SA 
+684,Santa Ana ,SA    
+689,Santa Ana Heights ,SAH 
+691,Santa Clarita ,SCL 
+692,Santa Fe Springs ,SFS   
+696,Santa Monica ,SMCA 
+697,Santa Paula ,SPL    
+698,Santa Rosa ,SAR    
+699,Santa Ysabel ,SYSA 
+700,Santee ,SAN 
+701,Saugus ,SAU    
+705,Scripps Miramar ,SCM 
+706,Seal Beach ,SLB   
+714,Sedco ,SEDC 
+715,Sequim ,SEQM 
+716,Shadow Hills ,SHH   
+717,Sherman Oaks ,SO    
+718,Sierra Madre ,SMAD  
+719,Signal Hill ,SIGH  
+721,Silver Lake ,SVL 
+722,Simi Valley ,SIM   
+725,Simi Valley ,SIM    
+726,Sky Valley ,SV 
+727,Solana Beach ,SOL 
+728,Somis ,SOM    
+729,Sorrento ,SOR 
+730,South El Monte ,SELM  
+731,South Gate ,SOG   
+733,South Pasadena ,SPAS  
+734,Spring Valley ,SPV 
+735,Stanton ,STAN  
+737,Stevenson Ranch ,SR     
+738,Studio City ,STUD 
+742,Sugar Loaf ,SGLF 
+743,Sun City ,SUNC  
+744,Sun Valley ,SUNV 
+747,Sunland ,SUNL  
+750,Sunnymead ,SNMD 
+751,Sunset Beach ,SSB   
+752,Surfside ,SURF  
+753,Sylmar ,SYL   
+754,Tarzana ,TAR   
+755,Tecate ,TEC 
+756,Tehachapi ,THP    
+757,Temecula ,TEM 
+758,Temecula ,TEM   
+772,Temple City ,TMPL  
+773,Thermal ,TH 
+774,Thousand Oaks ,TO    
+775,Thousand Oaks ,TO     
+776,Thousand Palms ,TP 
+777,Tierrasanta  ,TIE 
+778,Toluca Lake ,TUL    
+779,Topanga ,TOP    
+782,Torrance ,TORR 
+795,Tujunga ,TUJ   
+796,Tustin ,TUS 
+798,Tustin ,TUS   
+800,Universal City ,UCTY 
+801,University City ,UNIV 
+802,Upland ,UPL   
+803,Valencia ,VAL   
+804,Valencia ,VAL    
+806,Valley Center ,VC 
+807,Valley Glen ,VG    
+808,Valley Village ,VVL   
+809,Van Nuys - East ,VNE    
+810,Van Nuys - West ,VNW    
+811,Venice ,VEN 
+812,Ventura ,VENT 
+813,Vernon ,VERN 
+815,Victor Valley ,VTVL  
+816,Victorville ,VCVL 
+817,Villa Park ,VP    
+818,Vista ,VST   
+819,Walnut ,WAL   
+820,Walnut Park ,WP    
+824,Warner Springs ,WSPR  Anza/Aguanga/Warner Springs 
+825,West Covina ,WCOV  West Covina 
+826,West Hills ,WEH    
+827,West Hollywood ,WHO 
+829,Westchester ,WS  
+830,Westlake Village ,WLV   
+831,Westminster ,WTM   
+839,Whittier ,WH    
+840,Wilderville ,WDVL 
+841,Wildomar ,WILD  
+844,Wilmington ,WILM 
+846,Wilson Valley ,WVLY 
+847,Winchester ,WINC  
+849,Winnetka ,WIN    
+850,Woodcrest ,WOOD 
+851,Woodland Hills ,WHLL 
+852,Wrightwood ,WRWD 
+853,Yorba Linda ,YL    
+854,Yucaipa ,YUCP  
+855,Yucca Valley ,YCCV 
