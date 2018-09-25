@@ -1,5 +1,4 @@
 ,City,Code
-3,City ,Code 
 6,29 Palms ,29P   
 10,Acton ,AC     
 11,Adelanto ,AD    
@@ -454,8 +453,8 @@
 818,Vista ,VST   
 819,Walnut ,WAL   
 820,Walnut Park ,WP    
-824,Warner Springs ,WSPR  Anza/Aguanga/Warner Springs 
-825,West Covina ,WCOV  West Covina 
+824,Warner Springs ,WSPR
+825,West Covina ,WCOV 
 826,West Hills ,WEH    
 827,West Hollywood ,WHO 
 829,Westchester ,WS  
@@ -474,3 +473,7 @@
 853,Yorba Linda ,YL    
 854,Yucaipa ,YUCP  
 855,Yucca Valley ,YCCV 
+856,Warner Springs ,Anza
+857,Warner Springs ,Aguanga
+858,Warner Springs ,Warner Springs 
+859,West Covina ,West Covina
